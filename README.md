@@ -4,9 +4,9 @@ The completed product is packaged in a little waterproof box. It is powered by 2
 For detailed description, please refer to the two reports.
 
 This repository contains:
-- Midreport.pdf       The midterm report of this project, demonstrates the early conception and design
-- FinalReport.pdf     The Final report of this project, demonstrates the design, production and principles
-- fp.ino              The main Arduino source code file which controls the oscilloscope
-- poster.png          The poster of this project, A1 size for print
+- Midreport.pdf       - The midterm report of this project, demonstrates the early conception and design
+- FinalReport.pdf     - The Final report of this project, demonstrates the design, production and principles
+- fp.ino              - The main Arduino source code file which controls the oscilloscope
+- poster.png          - The poster of this project, A1 size for print
 
 The demo video will be uploaded soon.
